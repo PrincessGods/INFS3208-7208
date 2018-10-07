@@ -2,7 +2,6 @@
 
 $dbServername = "127.0.0.1";
 $dbUsername = "root";
-$dbPassword = "wsadghjvbn";
 $dbPassword = "Your Password";
 $dbName = "test";
 
